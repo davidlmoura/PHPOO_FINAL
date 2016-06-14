@@ -9,8 +9,8 @@ use SON\Db\DataBaseCliente;
 
 $servername = "localhost";
 $username = "root";
-$password = "root";
-$dbName = "phpoo";
+$password = "";
+$dbName = "clientes";
 $conn = null;
 
 try
